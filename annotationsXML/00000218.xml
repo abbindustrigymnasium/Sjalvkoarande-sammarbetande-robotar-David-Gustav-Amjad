@@ -1,0 +1,1 @@
+<annotations><filename>00000218.JPEG</filename><folder>images</folder><size><width>1440</width><height>1080</height><depth>3</depth></size><object><name>gubbar</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>570.0000000000001</xmin><ymin>358.0</ymin><xmax>837.0000000000001</xmax><ymax>723.0</ymax></bndbox></object></annotations>
